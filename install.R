@@ -1,2 +1,3 @@
 install.packages('tidyverse')
-install.packages('psych')
+install.packages('broom')
+install.packages('openxlsx')
