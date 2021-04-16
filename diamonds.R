@@ -4,14 +4,16 @@
 # "Open the app"
 library(tidyverse)
 
-# Pull a dataset from this tidyverse package
-library(ggplot2)
+# Borrow a tidyverse dataset
 diamonds
 
 ## Explore the dataset
 
 # Spreadsheet-like viewer
 View(diamonds)
+
+# Print first rows
+head(diamonds)
 
 # Stats are R's jam
 summary(diamonds)
