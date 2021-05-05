@@ -2,12 +2,11 @@
 
 ## Repo under construction; proceed with caution
 
-[Purchase the book on Amazon](https://www.amazon.com/Advancing-Into-Analytics-Excel-Python/dp/149209434X/ref=sr_1_1?dchild=1&keywords=ADVANCING+INTO+ANALYTICS&qid=1615052408&sr=8-1)
-
 Run in RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stringfestdata/advancing-into-analytics-presentation/HEAD?urlpath=rstudio)
 
 Run in Jupyter: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stringfestdata/advancing-into-analytics-presentation/HEAD)
 
+## Want more? [Check out my book, _Advancing into Analytics: From Excel to Python and R_ (O'Reilly)](http://georgejmount.com/book/)
 
 ![Meetup cover image](images/london-excel-meetup.png)
 
