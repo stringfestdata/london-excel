@@ -18,7 +18,6 @@ head(diamonds)
 # Stats are R's jam
 summary(diamonds)
 
-
 # "Get me the average price 
 # for each cut, sorted 
 # from high to low." 
