@@ -2,7 +2,7 @@
 
 This presentation has concluded. Click through the following image to view the recording:
 
-![YT thumbnail](images/youtube.png)
+[![YT thumbnail](images/youtube.png)](https://youtu.be/l9gwfimYZ6Y)
 
 
 **Run in RStudio:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stringfestdata/advancing-into-analytics-presentation/HEAD?urlpath=rstudio)
